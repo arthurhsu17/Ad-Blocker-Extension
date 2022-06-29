@@ -13,4 +13,4 @@ Inspired from (https://github.com/nathan-149/mygithubpage)
 5.  Drag and drop the AdBlockExtension file onto the browser and thats it!
 6.  If need be, refresh your browser after installation. Enjoy!
 
-<iframe src="https://giphy.com/embed/EOpZ7XsVfTN2E" width="480" height="242" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/minions-EOpZ7XsVfTN2E">via GIPHY</a></p>
+![minions](https://user-images.githubusercontent.com/71420919/176422138-acb66466-4779-44ac-97f3-efefe18d1610.gif)
