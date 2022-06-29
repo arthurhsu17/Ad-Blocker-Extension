@@ -12,3 +12,5 @@ Inspired from (https://github.com/nathan-149/mygithubpage)
 4.  Activate developer mode on the top right
 5.  Drag and drop the AdBlockExtension file onto the browser and thats it!
 6.  If need be, refresh your browser after installation. Enjoy!
+
+https://gfycat.com/adorablecaringhusky
