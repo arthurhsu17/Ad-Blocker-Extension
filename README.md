@@ -5,8 +5,7 @@ Inspired from (https://github.com/nathan-149/mygithubpage)
 
 ### Install
 1.  To install download this zip file 
-[AdBlock.zip](https://github.com/arthurhsu17/Ad-Blocker-Extension/files/9011380/AdBlock.zip)
-
+[AdBlock.zip](https://github.com/arthurhsu17/Ad-Blocker-Extension/files/9012464/AdBlock.zip)
 
 2.  Once downloaded, open the zip file
 3.  Enter chrome://extensions/ on your browser or click the jigsaw piece icon on the top right and click manage extensions
